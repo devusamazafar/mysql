@@ -45,6 +45,11 @@ SHOW DATABASES; -- show all databases;
 
 ## delete a database
 
+## show  query for existing table
+```
+SHOW CREATE TABLE `user`
+```
+
 ## Create table
 
 
